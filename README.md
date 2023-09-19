@@ -1,0 +1,2 @@
+# Ejercicio_HorizontalVisibilityGraph
+Ejercicio_sencillo para mostrar como funciona Horizontal Visibility Graph
